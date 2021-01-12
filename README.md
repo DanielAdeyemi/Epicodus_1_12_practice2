@@ -6,7 +6,7 @@
 This project demonstrates JQuery effects of adding and removing classes when certain button clicked
 
 ## *Setup instructions:*
-Clone repository by using this [URL](https://github.com/DanielAdeyemi/Epicodus_practice_1_12) and run the ***index.html*** file in your terminal
+Clone repository by using this [URL](https://github.com/DanielAdeyemi/Epicodus_1_12_practice2) and run the ***index.html*** file in your terminal
 
 ## *Tecnologies used:*
 * HTML
